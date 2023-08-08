@@ -3,7 +3,7 @@
 </div>
 <div id="description">
     <h2 align="center">Car Rental Website</h2>
-    <h3>Short Description:</h3>
+    <h3>Brief description:</h3>
     <h4>Main Features of the Website from the Client's Perspective:</h4>
     <ul>
     <li><p>Simple and user-friendly interface for clients, making the car rental process easy and enjoyable;</p></li>
@@ -30,8 +30,6 @@
     <h4>Main Page of the Website:</h4>
     <div align="center" id="Images">
         <img src="https://github.com/AntsiferovPeter/CRW_EN/blob/main/Images/Main.gif" width=800 alt=""/>
-        <img src="https://github.com/AntsiferovPeter/CRW_EN/blob/main/Images/Header1.gif" width=800 alt=""/>
-        <img src="https://github.com/AntsiferovPeter/CRW_EN/blob/main/Images/Header2.gif" width=800 alt=""/>
     </div>
     <p>The main page of the website has the following structure:</p>
     <ul>
@@ -114,6 +112,10 @@ done by clicking on the dots below the slider, arrows on the sides, or swiping f
     </ul>
     <div align="center" id="Images">
         <img src="https://github.com/AntsiferovPeter/CRW_EN/blob/main/Images/Recaptcha.gif" width=800 alt=""/>
+    </div>
+    <p>With the form correctly filled out by the client and upon pressing the "Send" button, company managers will receive a message in a specifically designated Telegram chat for requests.</p>
+    <div align="center" id="Images">
+        <img src="https://github.com/AntsiferovPeter/CRW_EN/blob/main/Images/FeedbackTelegram.gif" width=800 alt=""/>
     </div>
     <h4>The registration page:</h4>
     <div align="center" id="Images">
